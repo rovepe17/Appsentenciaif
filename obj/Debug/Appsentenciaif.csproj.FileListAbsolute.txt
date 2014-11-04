@@ -1,0 +1,5 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsentenciaif\Appsentenciaif\bin\Debug\Appsentenciaif.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsentenciaif\Appsentenciaif\bin\Debug\Appsentenciaif.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsentenciaif\Appsentenciaif\bin\Debug\Appsentenciaif.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsentenciaif\Appsentenciaif\obj\Debug\Appsentenciaif.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsentenciaif\Appsentenciaif\obj\Debug\Appsentenciaif.pdb
